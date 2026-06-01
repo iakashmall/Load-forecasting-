@@ -1,0 +1,11 @@
+```
+numpy
+pandas
+matplotlib
+scikit-learn
+xgboost
+joblib
+optuna
+shap
+```
+
