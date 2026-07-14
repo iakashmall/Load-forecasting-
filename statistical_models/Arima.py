@@ -13,7 +13,7 @@ series suited for ARIMA.
 
 Supports
 --------
-- ADF stationarity test
+- ADF stationarity test(required cuz these model only work for stationary datapoints
 - Grid-search order selection (AIC / BIC)
 - Rolling one-step-ahead forecast (walk-forward)
 - Multi-step out-of-sample forecast with confidence intervals
